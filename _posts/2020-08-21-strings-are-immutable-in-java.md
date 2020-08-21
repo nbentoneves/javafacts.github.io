@@ -1,6 +1,5 @@
 ---
-title: "Strings are Immutable in Java"
-sub_title: "The common elements"
+title: "Day 1 - Strings are Immutable in Java"
 author: nbentoneves
 categories:
   - Data Structure
