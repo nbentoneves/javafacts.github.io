@@ -1,16 +1,11 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+nbentoneves:
+  name: Nuno Bento
+  picture: /images/foto.png
+  twitter: "@nuno_bento_90"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/nuno_bento_90
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
