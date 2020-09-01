@@ -2,7 +2,8 @@
 title: "Day 3 - JVM GC Algorithms"
 author: nbentoneves
 categories:
-  - Data Structure
+  - Virtual Machine
+  - Algorithms
 elements:
   - conten
   - css
