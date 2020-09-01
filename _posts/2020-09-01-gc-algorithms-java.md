@@ -1,5 +1,5 @@
 ---
-title: "Day 2 - LinkedList vs ArrayList"
+title: "Day 3 - JVM GC Algorithms"
 author: nbentoneves
 categories:
   - Data Structure
